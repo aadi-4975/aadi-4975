@@ -13,7 +13,7 @@
 * 🤖 Working on AI & Data Science projects
 * 🌱 Currently learning Python, Pandas, NumPy, and ML
 * 💬 Ask me about Python, Data Analysis, AI
-* 📫 Reach me at: [ltoofani4975@gmail.com](mailto:ltoofani4975@gmail.com)
+* 📫 Reach me at: toofani4975@gmail.com
 
 ---
 
